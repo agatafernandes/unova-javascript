@@ -1,0 +1,6 @@
+verificar estado da branch => git status
+verificar qual branch estou utilizando => git branch
+adicionar arquivos para commit => git add .
+comitar arquivo => git commit -m"coloque uma mensagem para identificar commit"
+fazer push enviar alteração para nuvem => git push origin main
+x
