@@ -1,0 +1,3 @@
+const date = new date()
+const date1 = new date('March 16 2023 19:05')
+const date2 = new date('2023, 02, 16, 19, 30')
